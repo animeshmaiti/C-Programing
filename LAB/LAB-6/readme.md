@@ -1,0 +1,3 @@
+### 1) Write a menu-driven program to implement Queue operations such as Enqueue, Dequeue, Peek, Display of elements, IsEmpty using an array
+### 2) Write a menu-driven program to implement Queue operations such as Enqueue, Dequeue, Peek, Display of elements, IsEmpty using a linked list.
+### 3)Write a menu-driven program to implement Circular Queue operations such as Enqueue, Dequeue, Peek, Display of elements,
