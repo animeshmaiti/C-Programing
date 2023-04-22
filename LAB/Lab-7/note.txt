@@ -1,3 +1,0 @@
-in order
-pre order
-post order

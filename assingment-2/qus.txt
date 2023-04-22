@@ -1,8 +1,0 @@
-Write a menu driven program for an static array and its following operations
-
-    (i) Insertions (Beginning, End, after, and before)
-    (ii) Deletions (Beginning, End, after, and before)
-    (iii) Traversing
-    (iv) Sorting (Bubble & Insertions)
-    (v) Searching
-    
